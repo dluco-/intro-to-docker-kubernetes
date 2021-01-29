@@ -3,7 +3,7 @@ https://www.docker.com/products/docker-desktop + enabled Kubernetes
 
 # Info
 
-Info about MS and their out of the box Dockerfile
+Info about MS and their out of the box Dockerfile  
 https://docs.microsoft.com/en-us/visualstudio/containers/container-build?view=vs-2019
 
 Introduction to kubernetes
